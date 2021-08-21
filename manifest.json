@@ -1,0 +1,16 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Minecraft Bedrock Texture DLC Design to look like Minecraft was in the 80s. New Caledonia Shader Pack Required.",
+        "name": "Cyber DLC",
+        "uuid": "2866eca6-2454-4474-94f8-9f8de3d0ac0f",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [{
+        "description": "Minecraft Bedrock Texture DLC Design to look like Minecraft was in the 80s. New Caledonia Shader Pack Required.",
+        "type": "resources",
+        "uuid": "c63f327b-4715-439d-add6-fcbe5479d5aa",
+        "version": [0, 0, 1]
+    }]
+}
